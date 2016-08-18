@@ -109,7 +109,12 @@
 }
 
 .wikilegis-widget .link {
-	margin-left: 10px;
+    margin-left: 10px;
+}
+
+
+.wikilegis-widget .votes {
+	display: inline-block;
 }
 
 .votes .material-icons {
